@@ -41,39 +41,6 @@ Postlist Page
 
 Demonstrates fetching and displaying a list of posts from JSONPlaceholder.
 
-
-After the "Screenshots" section, you should typically include information about how to get the project up and running. This usually involves sections like:
-
-    Technologies Used
-
-    Installation
-
-    Usage
-
-    Contributing (Optional)
-
-    License
-
-Here's how you can structure it, along with the content for each section based on your provided code:
-
-Screenshots
-
-Home Page
-
-Displays a welcome message and serves as the entry point of the application.
-
-About Page
-
-Provides information about the application and how React Router works.
-
-Contact Page
-
-Includes contact information for the application.
-
-Postlist Page
-
-Demonstrates fetching and displaying a list of posts from JSONPlaceholder.
-
 Technologies Used
 
     React: A JavaScript library for building user interfaces.
@@ -84,12 +51,7 @@ Technologies Used
 
     CSS: For basic styling.
 
-Install dependencies:
-Bash
 
-npm install
-# or if you use yarn
-# yarn install
 
 
 
